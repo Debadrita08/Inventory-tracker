@@ -110,4 +110,4 @@ const SiginPage = () => {
   );
 };
 
-export default SiginPage;
+export default SigninPage;
